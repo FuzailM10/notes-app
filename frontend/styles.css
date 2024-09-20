@@ -1,0 +1,11 @@
+body{
+    font-family: Arial,sans-serif;
+    margin:20px;
+}
+#notes-list{
+    margin-bottom: 20px;
+}
+#note-form{
+    display:flex;
+    gap:10px;
+}
