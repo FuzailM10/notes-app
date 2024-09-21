@@ -40,25 +40,20 @@ Flask-CORS
 Steps
 Clone the Repository
 
-bash
-Copy code
+
 git clone https://github.com/FuzailM10/notes-app.git
 cd notes-app
 Set Up Virtual Environment
 
-bash
-Copy code
+
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install Dependencies
 
-bash
-Copy code
 pip install Flask Flask-CORS
 Run the Backend Server Navigate to the backend directory and start the Flask server:
 
-bash
-Copy code
+
 python app.py
 Open the Frontend Open frontend/index.html in your web browser to access the notes application.
 
@@ -69,7 +64,7 @@ API Endpoints
 GET /api/notes: Retrieve all notes.
 POST /api/notes: Add a new note. Requires a JSON body with the structure:
 json
-Copy code
+
 { "note": "Your note text here" }
 Contributing
 We welcome contributions! To contribute:
