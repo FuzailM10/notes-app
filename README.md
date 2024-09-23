@@ -1,4 +1,4 @@
-CloudNotes: Your Cloud-Based Notes App
+CloudNotes: Cloud-Based Notes App
 Overview
 CloudNotes is a simple cloud-based notes application that allows users to create, store, and manage their notes. Built with Flask for the backend and vanilla JavaScript for the frontend, this app provides an easy way to keep track of your thoughts and ideas.
 
